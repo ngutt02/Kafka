@@ -1,0 +1,5 @@
+package com.sathya.receiver;
+
+public class MessageReceiver {
+
+}
